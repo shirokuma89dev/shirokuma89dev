@@ -7,5 +7,5 @@
 
 ## Links
 
-Twitter:[@robokichi41](https://twitter.com/robokichi41)  
-Qiita:[@Shirokuma89](https://qiita.com/Shirokuma89)
+Twitter : [@robokichi41](https://twitter.com/robokichi41)  
+Qiita : [@Shirokuma89](https://qiita.com/Shirokuma89)
