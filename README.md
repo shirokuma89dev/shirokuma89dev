@@ -22,8 +22,8 @@ RCJ Rescue Mazeチーム「Blend」のキャプテン・ハードウェア担当
 
 ## Links
 
-Blog : [shirokuma-89.github.io](https://shirokuma-89.github.io)
+Blog : [blog.shirokuma89.dev](https://blog.shirokuma89.dev)
 
-Twitter : [@robokichi41](https://twitter.com/robokichi41)  
+Twitter : [@shirokuma89dev](https://twitter.com/shirokuma89dev)  
 
 Qiita : [@Shirokuma89](https://qiita.com/Shirokuma89)
