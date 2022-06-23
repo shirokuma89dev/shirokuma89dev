@@ -26,4 +26,4 @@ Blog : [blog.shirokuma89.dev](https://blog.shirokuma89.dev)
 
 Twitter : [@shirokuma89dev](https://twitter.com/shirokuma89dev)  
 
-Qiita : [@Shirokuma89](https://qiita.com/Shirokuma89)
+Qiita : [@shirokuma89dev](https://qiita.com/shirokuma89dev)
