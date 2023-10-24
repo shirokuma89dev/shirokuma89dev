@@ -1,24 +1,24 @@
-# Shirokuma＠胡瓜
+# しろくま胡瓜 shirokuma89dev
 
-## 自己紹介
+宮里 孝希 MIYAZATO Takaki
 
-岐阜工業高等専門学校　電子制御工学科　2年
+2014年からロボカップジュニアに出場。当初はサッカー競技をやっていたものの、2022年からレスキュー競技に転向し現役選手として活動中。国際大会 RoboCup 2023 BordeauxにてRescue Maze Best Poster賞を受賞。現在はRCJ Rescue Maze Team「たのロボ！」にて活動中。
 
-RCJ Rescue Mazeチーム「Blend」のキャプテン・ハードウェア担当をしています。
+## Skills
 
-### 2022
+![](https://github-readme-stats.vercel.app/api/top-langs?username=shirokuma89dev&show_icons=true&locale=en&layout=compact)
 
-4月　ロボカップジュニア・ジャパンオープン2022けいはんなにSoccer Lightweight部門で出場
+### Languages, Frameworks
 
-6月　日本ロボット学会さんより学会賞「RSJ賞」を受賞
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,processing,markdown,html,css" /> <br /><br />
 
-### 2021
+### Tools
 
-2月　RCJ岐阜ブロック大会 Soccer Lightweight優勝
+<img src="https://skillicons.dev/icons?i=vscode,github,git,ai" /> <br /><br />
 
-### 2020
+### Now On Training
 
-2月　RCJ岐阜ブロック大会 Soccer Lightweight優勝 優秀プレゼンテーション賞
+<img src="https://skillicons.dev/icons?i=swift,js,docker,nodejs,nextjs,vim,figma" /> <br /><br />
 
 ## Links
 
