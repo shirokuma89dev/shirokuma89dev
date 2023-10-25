@@ -2,7 +2,7 @@
 
 宮里 孝希 MIYAZATO Takaki
 
-2014年からロボカップジュニアに出場。当初はサッカー競技をやっていたものの、2022年からレスキュー競技に転向し現役選手として活動中。国際大会 RoboCup 2023 BordeauxにてRescue Maze Best Poster賞を受賞。現在はRCJ Rescue Maze Team「たのロボ！」にて活動中。
+2014年からロボカップジュニアに出場。当初はサッカー競技をやっていたものの、2022年からレスキュー競技に転向。国際大会 RoboCup 2023 BordeauxにてRescue Maze Best Poster賞を受賞。現在はRCJ Rescue Maze Team「たのロボ！」にて活動中。
 
 ## Skills
 
