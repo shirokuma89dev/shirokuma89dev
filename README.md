@@ -4,6 +4,8 @@
 
 2014年からロボカップジュニアに出場。当初はサッカー競技をやっていたものの、2022年からレスキュー競技に転向。国際大会 RoboCup 2023 BordeauxにてRescue Maze Best Poster賞を受賞。現在はRCJ Rescue Maze Team「たのロボ！」にて活動中。
 
+<a href="https://www.buymeacoffee.com/shirokuma89dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Skills
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=shirokuma89dev&show_icons=true&locale=en&layout=compact)
