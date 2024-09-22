@@ -14,11 +14,11 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,ai" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,ai,docker,linux" /> <br /><br />
 
 ### Now On Training
 
-<img src="https://skillicons.dev/icons?i=swift,js,docker,nodejs,nextjs,vim,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=swift,js,nodejs,opencv,neovim,figma" /> <br /><br />
 
 ## Links
 
