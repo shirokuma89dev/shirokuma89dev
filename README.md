@@ -10,15 +10,15 @@
 
 ### Languages, Frameworks
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,processing,markdown,html,css" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,processing,markdown,opencv" /> <br /><br />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,ai,docker,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,ai,docker,linux,neovim" /> <br /><br />
 
 ### Now On Training
 
-<img src="https://skillicons.dev/icons?i=swift,js,nodejs,opencv,neovim,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=swift,js,nodejs,figma,html,css" /> <br /><br />
 
 ## Links
 
