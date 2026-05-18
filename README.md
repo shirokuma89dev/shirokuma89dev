@@ -2,7 +2,7 @@
 
 宮里 孝希 MIYAZATO Takaki
 
-2014年から2024年までロボカップジュニアに出場。国際大会RoboCup 2024 EindhovenにてRescue Maze部門で世界準優勝とベストポスター賞を受賞。現在は卒業研究でFPGAを用いた機械学習モデルベースの文字認識について取り組んでいる。組み込み系・電子制御が専門分野。
+2014年から2024年までロボカップジュニアに出場。国際大会RoboCup 2024 EindhovenにてRescue Maze部門で世界準優勝とベストポスター賞を受賞。高専での卒業研究でFPGAを用いた機械学習モデルベースの文字認識について取り組んだ。組み込み系・電子制御が専門分野。
 
 <br /><img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,github,git,ai,docker,linux,vim" /> <br />
 
@@ -23,7 +23,7 @@
 5. **RoboCupJunior Rescue Maze - Best Poster**  RoboCup 2023 Bordeaux
 6. **World League Rescue Maze 1位**  ロボカップジュニア・ジャパンオープン2024名古屋
 7. **World League Rescue Maze 優秀プレゼンテーション**  ロボカップジュニア・ジャパンオープン2024名古屋
-8. **国際レスキュー機構「IRS賞」**  ロボカップジュニア・ジャパンオープン2023名古屋
+8. **国際レスキュー機構「IRS賞」**  ロボカップジュニア・ジャパンオープン2024名古屋
 9. **RoboCupJunior Rescue Maze - Individual Team 2nd Place**  RoboCup 2024 Eindhoven
 10. **RoboCupJunior Rescue Maze - Best Poster**  RoboCup 2024 Eindhoven
 
